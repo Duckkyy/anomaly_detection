@@ -1,6 +1,6 @@
 # anomaly_detection
 
-## 環境建築
+## About repo
 The code has been tested with these PC environments:
 - MacOS Ventura Version 13.0
 - Python 3.12.4
