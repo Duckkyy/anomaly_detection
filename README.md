@@ -13,6 +13,6 @@ The code has been tested with these PC environments:
    ```
    
 2. Run app:
-  ```bash
+   ```bash
    streamlit run app.py
    ```
